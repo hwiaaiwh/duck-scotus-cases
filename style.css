@@ -6,7 +6,7 @@ p,dl,ul {
   font-size: 18px;
 }
 
-h1 {
+h1, .ruling {
   text-decoration: underline;
 }
 
