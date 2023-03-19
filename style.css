@@ -11,9 +11,39 @@ h1, .ruling {
 }
 
 .return {
-    text-shadow: 1px 1px 2px blue;
+  text-shadow: 1px 1px 2px blue;
+}
+
+.footer, .header{
+  width: 750px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.header {
+  width: 600px;
+}
+
+.caption {
+  text-align: center;
+  font-style: italic;
 }
 
 dt {
   font-weight: bold;
+}
+
+table, th, td {
+  border: 2px solid black;
+  font-size: 18px;
+  text-align: center;
+}
+
+th, td {
+  padding: 4px 7px;
+}
+
+table {
+  width:20%
 }
