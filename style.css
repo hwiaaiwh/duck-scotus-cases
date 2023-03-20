@@ -30,6 +30,8 @@ h1, .ruling {
 .caption {
   text-align: center;
   font-style: italic;
+  margin-right: initial;
+  margin-left: initial;
 }
 
 dt {
